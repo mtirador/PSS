@@ -1,0 +1,7 @@
+4,Pear,Fruit,6.5,Food
+5,Orange,Fruit,4.0,Food
+6,Banana,Fruit,3.0,Food
+7,Tomato,Vegetable,2.5,Food
+8,Spinach,Vegetable,1.8,Food
+9,Chicken,Meat,10.0,Food
+10,Beef,Meat,12.0,Food
